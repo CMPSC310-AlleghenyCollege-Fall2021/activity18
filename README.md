@@ -2,7 +2,7 @@
 
 ## Opening the file in Colaboratory
 
-Open the provided `nlp_example` program in [Colaboratory](https://colab.research.google.com/).
+Open the provided `NLP_Example` program in [Colaboratory](https://colab.research.google.com/).
 
 
 ## Tasks
